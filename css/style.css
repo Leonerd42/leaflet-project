@@ -1,0 +1,19 @@
+
+body{
+    padding: 0px;
+}
+
+/* PROPRIEDADES DO PAINEL */
+.controlPanel{
+    border: 5px solid red; 
+    border-radius: 10px; 
+    width: 100%; 
+    height: 550px;
+}
+
+/** PROPRIEDADES DO MAPA */
+.map {
+    position: absolute;
+    width: 100%;
+    height: 550px;
+}
